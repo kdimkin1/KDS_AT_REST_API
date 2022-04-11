@@ -8,4 +8,13 @@
 See details:  
 ```bash
 src/test/java/tests/ReqresinTestsHW.java
+```
+Common links:
+```bash
+Library for checking assertThat
+https://assertj.github.io/doc/
+Documentation:
+https://github.com/rest-assured/rest-assured/wiki/usage
+Examples for using Selenide + REST Assured
+```
 
