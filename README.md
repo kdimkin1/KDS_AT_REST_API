@@ -13,8 +13,17 @@ Common links:
 ```bash
 Library for checking assertThat
 https://assertj.github.io/doc/
+
 Documentation:
 https://github.com/rest-assured/rest-assured/wiki/usage
+
 Examples for using Selenide + REST Assured
+https://github.com/autotests-cloud/allure-qaguru
+
+Example with REST Assured from Alexey Kuznetcov 
+https://github.com/kadehar/rest-assured-example
+
+Parsing json
+https://jsonlint.com/
 ```
 
