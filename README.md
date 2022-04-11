@@ -8,6 +8,7 @@
 See details:  
 ```bash
 src/test/java/tests/ReqresinTestsHW.java
+https://reqres.in/
 ```
 Common links:
 ```bash
@@ -25,5 +26,11 @@ https://github.com/kadehar/rest-assured-example
 
 Parsing json
 https://jsonlint.com/
+
+Convert json to POJO
+http://www.jsonschema2pojo.org/
+
+API examples for training: 
+https://reqres.in/
 ```
 
