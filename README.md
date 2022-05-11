@@ -7,13 +7,13 @@
 
 See details:  
 ```bash
+HW17:
 src/test/java/tests/ReqresinTestsHW.java
 https://reqres.in/
 
+HW18:
 src/test/java/tests/DemowebshopTestsHW.java
 addToCartWithCookieWithCheckCartSize
-
-=======
 
 ```
 Common links:
