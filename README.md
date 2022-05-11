@@ -9,6 +9,12 @@ See details:
 ```bash
 src/test/java/tests/ReqresinTestsHW.java
 https://reqres.in/
+
+src/test/java/tests/DemowebshopTestsHW.java
+addToCartWithCookieWithCheckCartSize
+
+=======
+
 ```
 Common links:
 ```bash
