@@ -6,11 +6,18 @@ repositories {
     mavenCentral()
 }
 
+def restAssured = "5.0.1",
+    junitVersion = "5.8.2",
+    slf4jVersion = "1.7.36"
+
 dependencies {
     testImplementation(
-            "io.rest-assured:rest-assured:5.0.1",
-            "org.junit.jupiter:junit-jupiter:5.8.2",
-            "org.slf4j:slf4j-simple:1.7.36")
+            "io.rest-assured:rest-assured:$restAssured",
+            "org.junit.jupiter:junit-jupiter:$junitVersion",
+            "org.slf4j:slf4j-simple:$slf4jVersion")
+    testRuntimeOnly(
+            "org.slf4j:slf4j-simple:$slf4jVersion",
+            "org.junit.jupiter:junit-jupiter-engine:$junitVersion")
 }
 
 tasks.withType(JavaCompile) {
