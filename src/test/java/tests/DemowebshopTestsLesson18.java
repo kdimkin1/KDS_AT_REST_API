@@ -1,6 +1,5 @@
 package tests;
 
-import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import org.junit.jupiter.api.Test;
 
@@ -8,7 +7,7 @@ import static io.restassured.RestAssured.given;
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class DemowebshopTests {
+public class DemowebshopTestsLesson18 {
     @Test
     void addToCartAsNewUserTest() {
         given()
